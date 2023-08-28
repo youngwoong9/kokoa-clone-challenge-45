@@ -1,0 +1,8 @@
+:root {
+  --green-melon: #8cc63f;
+  --orange-melon: #ffa500;
+  --yellow: #fae100;
+  --gray: rgba(0, 0, 0, 0.5);
+  --horizontal-space: 25px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+}
